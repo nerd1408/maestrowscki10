@@ -91,13 +91,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me:
  <p align="left">
-    <a href="https://www.linkedin.com/in/peter-jidamva-3800831a6/"
+    <a href="https://www.linkedin.com/in/rahim-hassan//"
       ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
     /></a>
     <a href="https://twitter.com/maestrowscki10"
       ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"
     /></a>
-    <a href="https://www.instagram.com/drift65.deep"
+    <a href="https://www.instagram.com/maestrowscki10"
       ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
     /></a>
   </p>
