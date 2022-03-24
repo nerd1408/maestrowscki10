@@ -64,11 +64,7 @@ You can click the Preview link to take a look at your changes.
 
  <p align="center">
     <a href="https://github.com/maestrowscki10/github-readme-streak-stats">
-      <img
-        title="🔥 Get streak stats for your profile at git.io/streak-stats"
-        alt="Jidamva"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=maestrowscki10"
-      />
+     
     </a>
   </p>
   <br />
@@ -77,8 +73,9 @@ You can click the Preview link to take a look at your changes.
 ## 📊 My Github Stats
 <br/>
 <br>
-  <a href="https://github.com/maestrowscki10/github-readme-stats"><img alt="Jidamva Github Stats" src="https://github-readme-stats.vercel.app/api?username=maestrowscki10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/maestrowscki10/github-readme-stats"><img alt="Jidamva Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowscki10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/maestrowscki10/github-readme-stats">
+ <src="https://github-readme-stats.vercel.app/api?username=maestrowscki10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/maestrowscki10/github-readme-stats">< src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowscki10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
