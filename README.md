@@ -2,7 +2,8 @@
 - 👀 I’m interested in webdev,mobileApp and Cybersecurity 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mailto:abdulhansen.ah@gmail.com
+- 📫 How to reach me abdulhansen.ah@gmail.com
+
 
 
 
