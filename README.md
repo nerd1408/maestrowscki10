@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdulhansen.ah@gmail.com
-
+- (+255)744554546
 
 
 
@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://github.com/maestrowscki10/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samatar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maestrowscki10&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="maestrowscki10's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maestrowscki10&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -63,3 +63,4 @@
 ## ❤ Views and Followers
 </a>
 <a href="https://github.com/maestrowscki10?tab=followers"><img src="https://img.shields.io/github/followers/maestrowscki10?label=Followers&style=social" alt="GitHub Badge"></a
+****
